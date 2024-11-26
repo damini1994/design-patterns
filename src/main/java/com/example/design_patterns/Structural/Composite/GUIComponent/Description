@@ -1,0 +1,3 @@
+ Graphical User Interface (GUI) where a window can contain various components like buttons, text fields,
+ and other panels, which in turn might contain more buttons or text fields.
+ The Composite Pattern allows us to treat individual components (like buttons) and groups of components (like panels) in the same way.

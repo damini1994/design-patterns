@@ -1,0 +1,2 @@
+An organization has employees, managers, and departments. Managers can have subordinates (employees or other managers),
+and every employee or manager can be treated as a part of the hierarchy.
